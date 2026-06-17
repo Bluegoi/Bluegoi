@@ -15,6 +15,7 @@ para resolver problemas reais de forma eficiente.
 <p align="left">
 💻 <strong>Técnico em Informática</strong> — FAETEC (2022 – 2024)<br>
 🎮 <strong>Design de Jogos Digitais</strong> — FAETEC (2022)<br>
+🎲 <strong>Segurança da Informação e LGPD </strong> — FAETEC (2026)<br>
 🛠️ <strong>Engenharia de Software</strong> — Univassouras (2024 – 2027)<br>
 🔍 <strong>Análise e Desenvolvimento de Sistemas</strong> — Univassouras (2024 – 2026)<br>
 🌎 <strong>Inglês</strong> — CCAA (2017 – 2022)
