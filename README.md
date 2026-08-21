@@ -1,7 +1,7 @@
 <h1 align="left">Rian Ciscotto</h1>
 
 <p align="left">
-  <strong>Software Developer | Web Development</strong>
+  <strong>Desenvolvedor de Software | Desenvolvimento Web</strong>
 </p>
 
 <p align="left">
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧰 Technologies & Tools
+## 🧰 Tecnologias & Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" />
@@ -45,12 +45,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="42" alt="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42" alt="Flask" />
-  
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Projetos
 
 ### ☀️ SolarWeather 360
 
@@ -60,11 +59,11 @@ Aplicação web desenvolvida com Django para consulta e apresentação de inform
 
 ### 💡 Inspire-Me
 
-Aplicação web criada para explorar imagens aleatórias e estimular a criatividade, utilizando uma fonte externa de imagens para gerar diferentes referências visuais a cada acesso.
+Aplicação web criada para estimular a criatividade através de imagens aleatórias, oferecendo diferentes referências visuais a cada acesso.
 
 **[Acessar projeto →](https://rianciscotto.github.io/Inspire-Me/)**
 
-### 🌐 Portfolio
+### 🌐 Portfólio
 
 Meu portfólio pessoal, desenvolvido para apresentar minha experiência, conhecimentos, projetos e trajetória na área de tecnologia.
 
@@ -75,4 +74,3 @@ Meu portfólio pessoal, desenvolvido para apresentar minha experiência, conheci
 <p align="left">
   <img src="https://github.com/RianCiscotto/RianCiscotto/blob/main/ivcx6810iigd1.gif" width="85" alt="Penguin" />
 </p>
-
