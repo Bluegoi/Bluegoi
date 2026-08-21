@@ -1,70 +1,78 @@
-<h2 align="left">Rian Ciscotto</h2>
-
-<p>
-Sou estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas, com experiência em Python, Django,
-Banco de Dados e Front-End.  
-Gosto de construir sistemas bem estruturados e pensados para realmente ajudar pessoas no dia a dia. <br>
-Tenho interesse em projetos web e SaaS, atuando no desenvolvimento de soluções práticas, bem estruturadas e pensadas
-para resolver problemas reais de forma eficiente.
-</p>
-
----
-
-### 🎓 Cursos e Formação
+<h1 align="left">Rian Ciscotto</h1>
 
 <p align="left">
-💻 <strong>Técnico em Informática</strong> — FAETEC (2022 – 2024)<br>
-🎮 <strong>Design de Jogos Digitais</strong> — FAETEC (2022)<br>
-🎲 <strong>Segurança da Informação e LGPD </strong> — FAETEC (2026)<br>
-🛠️ <strong>Engenharia de Software</strong> — Univassouras (2024 – 2027)<br>
-🔍 <strong>Análise e Desenvolvimento de Sistemas</strong> — Univassouras (2024 – 2026)<br>
-🌎 <strong>Inglês</strong> — CCAA (2017 – 2022)
+  <strong>Software Developer | Web Development</strong>
 </p>
 
 <p align="left">
-🚀 Aberto a novas oportunidades e desafios para expandir meus conhecimentos em programação e desenvolvimento de software
+  Desenvolvedor com foco em <strong>desenvolvimento web</strong>, atuando na criação de aplicações,
+  APIs e sistemas utilizando tecnologias de backend e frontend. Tenho experiência com
+  <strong>Python, Django, Flask, Java, Spring Boot, JavaScript e bancos de dados SQL</strong>,
+  além de experiência com <strong>análise e manipulação de dados</strong>.
+</p>
+
+<p align="left">
+  Busco desenvolver soluções bem estruturadas, funcionais e voltadas para problemas reais,
+  combinando desenvolvimento de software, bancos de dados e análise de informações.
+  Atualmente, também venho aprofundando meus conhecimentos em <strong>Java e Spring Boot</strong>,
+  com foco na construção de aplicações web e APIs.
 </p>
 
 ---
 
-### 🧠 Tecnologias & Ferramentas
+## 🎓 Formação & Cursos
 
-<div align="left">
-  <!-- Front-end -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React JS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
-
-
-  <!-- Back-end -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-
-  <!-- Banco de Dados -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" height="40" alt="HeidiSQL" />
-
-  <!-- Sistema & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-</div>
+- 🎓 <strong>Engenharia de Software</strong> — Universidade de Vassouras · 2024 – 2027
+- 💻 <strong>Análise e Desenvolvimento de Sistemas</strong> — Universidade de Vassouras · 2024 – 2026
+- 🖥️ <strong>Técnico em Informática</strong> — FAETEC · 2022 – 2024
+- 🎮 <strong>Design de Jogos Digitais</strong> — FAETEC · 2022
+- 🔐 <strong>Segurança da Informação e LGPD</strong> — FAETEC · 2026
+- 🌎 <strong>Inglês</strong> — CCAA · 2017 – 2022
 
 ---
 
-### 📊 GitHub Stats
+## 🧰 Technologies & Tools
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RianCiscotto&show_icons=true&theme=codeSTACKr" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianCiscotto&layout=compact&theme=codeSTACKr" height="150" />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="42" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42" alt="Flask" />
+  
+</p>
+
+---
+
+## 🚀 Projects
+
+### ☀️ SolarWeather 360
+
+Aplicação web desenvolvida com Django para consulta e apresentação de informações meteorológicas, integrando dados de uma API externa.
+
+**[Acessar projeto →](https://ciscotto.pythonanywhere.com/)**
+
+### 💡 Inspire-Me
+
+Aplicação web criada para explorar imagens aleatórias e estimular a criatividade, utilizando uma fonte externa de imagens para gerar diferentes referências visuais a cada acesso.
+
+**[Acessar projeto →](https://rianciscotto.github.io/Inspire-Me/)**
+
+### 🌐 Portfolio
+
+Meu portfólio pessoal, desenvolvido para apresentar minha experiência, conhecimentos, projetos e trajetória na área de tecnologia.
+
+**[Acessar portfólio →](https://rianciscotto.github.io/MeuPortifolio/)**
 
 ---
 
 <p align="left">
-  <img src="https://github.com/RianCiscotto/RianCiscotto/blob/main/ivcx6810iigd1.gif" width="100" alt="Penguin" />
+  <img src="https://github.com/RianCiscotto/RianCiscotto/blob/main/ivcx6810iigd1.gif" width="85" alt="Penguin" />
 </p>
-
 
